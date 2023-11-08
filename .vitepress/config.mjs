@@ -11,6 +11,7 @@ export default defineConfig({
 
     sidebar: [
       homeSidebar(),
+      tabbycatSidebar(),
       snailraceSidebar()
     ],
   },
@@ -25,6 +26,11 @@ function nav() {
       activeMatch: '/'
     },
     {
+      text: 'Tabby Cat',
+      link: '/tabby_cat/system_design',
+      activeMatch: '/snailrace/system_design'
+    },
+    {
       text: 'Snailrace',
       link: '/snailrace/',
       activeMatch: '/snailrace/'
@@ -37,6 +43,16 @@ function homeSidebar() {
     text: 'TAB Docs',
     items: [
       { text: 'Welcome to the TAB', link: '/index' }        
+    ]
+  }
+}
+
+function tabbycatSidebar() {
+  return {
+    text: 'Tabby Cat',
+    link: '/tabby_cat/system_design',
+    items: [
+      {text: 'System Design', link: '/tabby_cat/system_design' },
     ]
   }
 }
