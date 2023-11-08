@@ -46,8 +46,11 @@ function snailraceSidebar() {
     text: 'Snailrace',
     link: '/snailrace/',
     items: [
+      {text: 'Teams', link: '/snailrace/teams' },
+      {text: 'Circuits', link: '/snailrace/circuits' },
       {
         text: 'World Design',
+        link: '/snailrace/worlddesign/nations',
         items: [
           { text: 'Nations', link: '/snailrace/worlddesign/nations' },
           { text: 'The Great Snail War', link: '/snailrace/worlddesign/great_snail_war' },
@@ -56,6 +59,7 @@ function snailraceSidebar() {
       },
       { 
         text: 'Species', 
+        link: '/snailrace/species/lustrous_prismshell',
         items: [
           { text: 'Lustrous Prismshell', link: '/snailrace/species/lustrous_prismshell' },
           { text: 'Stormstrike Thunderhorn', link: '/snailrace/species/stormstrike_thunderhorn' },
@@ -66,6 +70,13 @@ function snailraceSidebar() {
           { text: 'Frostglacier Chillshell', link: '/snailrace/species/frostglacier_chillshell' },
           { text: 'Terraforge Stoneclad', link: '/snailrace/species/terraforge_stoneclad' },
         ]
+      },
+      {
+        text: 'Stories',
+        link: '/snailrace/stories/snail_and_storm',
+        items: [
+          { text: 'The Snail and The Storm', link: '/snailrace/stories/snail_and_storm' },
+        ] 
       },
     ]
   }
