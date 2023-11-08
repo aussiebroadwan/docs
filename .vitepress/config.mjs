@@ -14,9 +14,6 @@ export default defineConfig({
       snailraceSidebar()
     ],
   },
-  rewrites: {
-    '/': '/home/welcome'
-  }
 })
 
 
@@ -49,6 +46,14 @@ function snailraceSidebar() {
     text: 'Snailrace',
     link: '/snailrace/',
     items: [
+      {
+        text: 'World Design',
+        items: [
+          { text: 'Nations', link: '/snailrace/worlddesign/nations' },
+          { text: 'The Great Snail War', link: '/snailrace/worlddesign/great_snail_war' },
+          { text: 'Illicit Racing', link: '/snailrace/worlddesign/snailrace_underground' }
+        ] 
+      },
       { 
         text: 'Species', 
         items: [
