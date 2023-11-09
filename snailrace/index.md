@@ -2,4 +2,4 @@
 
 Welcome to the world of Snail Racing, also known as the World Snailrace Series (WSRS). This is a game which runs in our server prefixed by `/snailrace` and later will hopefully have a webapp which hooks into the system as well.
 
-In this document repository, you will find everything about snailrace including LORE documentation.
+Snailrace is a game that simulates the world of snail racing, a vibrant, competitive, and sometimes dark sport where snails with remarkable abilities and modifications race against each other on various tracks and terrains. The game allows players to create, customize, and train their own snails, as well as participate in races and events with other players. The game also features a rich and immersive world, with diverse biomes, cultures, and histories, as well as a hidden subculture of illegal snail racing that poses a threat to the integrity and the welfare of snail racing. The game is designed to be fun, engaging, and creative, as well as challenging, thrilling, and educational. Snailrace is a game for snail racing enthusiasts and anyone who loves snails and racing.

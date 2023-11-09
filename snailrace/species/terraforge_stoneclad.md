@@ -5,7 +5,7 @@
 
 # Terraforge Stoneclad
 
-The Frostglacier Chillshell is an extraordinary snail breed that thrives in the frigid realms of ice and snow. Its shell is composed of shimmering, translucent ice crystals that reflect the polar beauty of the frozen landscapes. The snail's body is agile and built for cold climates, allowing it to glide effortlessly across icy terrain.
+The Terraforge Stoneclad snail is a remarkable breed known for its rugged, stone-like shell that resembles the surface of ancient, weathered rock formations. Its shell is covered in intricate patterns, etched by the forces of nature. The snail's body is built for stability and endurance, providing it with the necessary strength to navigate harsh and rocky terrains.
 
 <Imgs 
     img1="/snailrace/_7a4000a0-e86c-4f3e-b8c2-d078c258b142.jpeg"
