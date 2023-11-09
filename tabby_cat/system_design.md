@@ -77,7 +77,7 @@ to be registered per application with the right tracking as well as tracing
 back transactions.
 
 Both finance and achievement systems will utilise the global system scheme. 
-New users that haven't been scene will be auto added to the database with their
+New users that haven't been seen will be auto added to the database with their
 Discord ID.
 
 <DbTable :data="system_scheme" />

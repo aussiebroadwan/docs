@@ -4,7 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "TAB Docs",
   description: "Documentation for The Aussie BroadWAN Community",
-  cleanUrls: true,
+  // cleanUrls: true,
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: nav(),
