@@ -98,7 +98,8 @@ function snailraceSidebar() {
         text: 'Games',
         link: '/snailrace/games/project_taskforce_gdd',
         items: [
-          { text: 'The Snail and The Storm', link: '/snailrace/games/project_taskforce_gdd' },
+          { text: 'Project Taskforce', link: '/snailrace/games/project_taskforce_gdd' },
+          { text: 'Project Snail Duel', link: '/snailrace/games/project_snail_duel_gdd' },
         ] 
       },
     ]
