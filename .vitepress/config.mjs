@@ -62,6 +62,7 @@ function snailraceSidebar() {
     text: 'Snailrace',
     link: '/snailrace/',
     items: [
+      {text: 'Development', link: '/snailrace/development' },
       {text: 'Teams', link: '/snailrace/teams' },
       {text: 'Circuits', link: '/snailrace/circuits' },
       {
